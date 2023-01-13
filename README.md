@@ -1,3 +1,6 @@
+## About me 
+![image](https://user-images.githubusercontent.com/108441950/212258197-591c5a81-7992-41f2-9422-aee4c04ebd53.png)
+
 - 👋 Hi, I’m @SS-yong
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
