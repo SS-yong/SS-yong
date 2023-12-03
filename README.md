@@ -25,13 +25,10 @@
        </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=ㅡㅡ&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ㅡㅡ&layout=compact&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=SS-yong&show_icons=true&theme=tokyonight"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SS-yong&layout=compact&theme=tokyonight"
            /> </div> 
     </div>
 
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> afd </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> adsf </div> 
-    </div>
-    
+https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight
+출처: https://eunhee-programming.tistory.com/244 [코드짜는 문과녀:티스토리]
