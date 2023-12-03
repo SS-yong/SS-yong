@@ -29,6 +29,3 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SS-yong&layout=compact"
            /> </div> 
     </div>
-
-https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight
-출처: https://eunhee-programming.tistory.com/244 [코드짜는 문과녀:티스토리]
