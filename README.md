@@ -3,7 +3,13 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> I'm Shin Yong </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> - Name : Shin Yong </div> 
+        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> </li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> - University : HUFS </div>  
+        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> </li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> - Major : IME </div> 
+        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> </li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> - Double Major : Statistics </div> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> </li> </div> 
     </div>
     <div style="text-align: left;">
