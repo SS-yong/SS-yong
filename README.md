@@ -23,11 +23,22 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Project list </h2> <br> 
-    <div style="text-align: left;"> <a href=https://github.com/SS-yong/-Data-Youth-Campus---Onestore_project> 1. [데이터청년캠퍼스] 유저 행동 패턴 분석 및 추천시스템 강화 (SOM Clustering & Hybrid Recommendation System & DNN Recommendation System)  </a> <br></br>
+    <div style="text-align: left;"> <a href=https://github.com/SS-yong/-Data-Youth-Campus---Onestore_project> 1. [데이터청년캠퍼스] 유저 행동 패턴 분석 및 추천시스템 강화  </a> <br></br>
+        - SOM Clustering (with RFM segmentation) <br></br>
+        - Hybrid Recommendation System <br></br>
+        - DNN Recommendation System <br></br>
         <a href=https://github.com/SS-yong/OneStore_webtoon_img_cluster> 2. [데이터청년캠퍼스] 원스토어 이미지 클러스터링 기반 추천시스템 </a> <br></br>
-        <a href=https://github.com/SS-yong/FL_PCB_Defect_Detection_AI_Model> 3. [학부연구생] DATA&AI 분석 경진대회 - 연합학습 기반 PCB 표면 양/불량 판단 및 객체 검출 시스템 (ResNet50 Classification & Federated Object Detection Yolov5)  </a> <br></br> 
-        <a href=https://github.com/SS-yong/MFC_Optimal_Location_Selection_for_Logistics_Centers> 4. [Data Mining] ML기반 Microfulfillment Center 최적 입지선정 프로젝트 (MFC Optimal Location Selection) </a> <br></br>
-        <a href=https://github.com/SS-yong/Federated-Learning> 5. [학부연구생] 연합학습 (Federated Learning) </a> <br></br>
+        - K-prototype Clustering <br></br>
+        <a href=https://github.com/SS-yong/FL_PCB_Defect_Detection_AI_Model> 3. [학부연구생] DATA&AI 분석 경진대회 - 연합학습 기반 PCB 표면 양/불량 판단 및 객체 검출 시스템  </a> <br></br> 
+        - Federated Object Detection  <br></br>
+        - ResNet50 Classification <br></br>
+        - Yolov5 Object Detection <br></br>
+        <a href=https://github.com/SS-yong/Federated-Learning> 4. [학부연구생] 연합학습 (Federated Learning) </a> <br></br>
+        - CNC Federated Learning <br></br>        
+        - Vertical Federated Learning <br></br>
+        <a href=https://github.com/SS-yong/MFC_Optimal_Location_Selection_for_Logistics_Centers> 5. [Data Mining] ML기반 Microfulfillment Center 최적 입지선정 프로젝트 (MFC Optimal Location Selection) </a> <br></br>
+        - Consensus Method (AGNES, K-means, K-median, GMM) <br></br>
+        - DNN Classification <br></br>
         <a href=https://github.com/SS-yong/Gnuvil_BigData> 6. [Gnuvil] 빅데이터 스터디 동아리 </a> <br></br>
         <a href=https://github.com/SS-yong/Vehicle_Service_Proejct> 7. [DataBase] 자전거 대여관리 시스템 프로젝트 (MySQL) </a> <br></br>
        </div> 
