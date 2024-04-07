@@ -22,7 +22,7 @@
           <br/></div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 PROJECT list </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 PROJECT </h2> <br> 
     <div style="text-align: left;"> <a href=https://github.com/SS-yong/-Data-Youth-Campus---Onestore_project> 1. [데이터청년캠퍼스] 유저 행동 패턴 분석 및 추천시스템 강화  </a> <br></br>
         - SOM Clustering (with RFM segmentation) <br></br>
         - Hybrid Recommendation System <br></br>
